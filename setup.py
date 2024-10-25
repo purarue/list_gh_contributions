@@ -19,9 +19,8 @@ with io.open("README.md", encoding="utf-8") as fo:
 setup(
     name="list_gh_contributions",
     version="0.1.0",
-    url="https://github.com/seanbreckenridge/list_gh_contributions",
-    author="Sean Breckenridge",
-    author_email="seanbrecke@gmail.com",
+    url="https://github.com/purarue/list_gh_contributions",
+    author="purarue",
     description=("""Script to list all of your contributions to all repositories"""),
     long_description=long_description,
     long_description_content_type="text/markdown",
